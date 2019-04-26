@@ -14,3 +14,5 @@ Noise from a MEMS device tends to be white gaussian noise in the higher frequenc
 [2] https://arxiv.org/abs/1808.03867 [Pervasive Attention]
 
 [3] https://arxiv.org/pdf/1810.11614.pdf [Deep Learning]
+
+[4] https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0 [Article]
